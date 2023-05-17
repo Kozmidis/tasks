@@ -4,7 +4,7 @@ function invert(obj) {
       ...accum,
       [value]: key,
     }),
-    { test: 5 }
+    {}
   );
 }
 
